@@ -7,9 +7,8 @@
 [![NLP](https://img.shields.io/badge/NLP-Text%20Classification-green)]()
 [![Status](https://img.shields.io/badge/Status-Completed-success)]()
 
-## Автор проекта
+## Автор проекта **Юлия Прохорова**
 
-**Юлия Прохорова**
 * Email: prohorova_j@inbox.ru  
 * Telegram: @j_u_l_i_p_r_o_k_h_o_r_o_v_a
 
