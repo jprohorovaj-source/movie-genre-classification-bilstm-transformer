@@ -9,7 +9,7 @@
 
 ## Автор проекта
 
-**Юлия Прохорова** — [Junior ML-Engineer](https://drive.google.com/file/d/1ZFfHcW5vbHKpd-NpLdoP5dBWfIYwGYzE/view?usp=drive_link)  
+**Юлия Прохорова**
 * Email: prohorova_j@inbox.ru  
 * Telegram: @j_u_l_i_p_r_o_k_h_o_r_o_v_a
 
