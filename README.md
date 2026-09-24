@@ -34,22 +34,6 @@
 | **BiLSTM + Attention** | **56.12%** | **Лучший результат.** Двунаправленный обход текста в сочетании со взвешенным суммированием улучшил качество на сложных классах. |
 
 ---
-RAW TEXT DATA
-     ↓
-Optimized Preprocessing & Tokenization
-     ↓
-Train / Validation / Test Split
-     ↓
-Baseline Model (LSTM)
-     ↓
-Transformer Architecture (Self-Attention)
-     ↓
-Hybrid Architecture (BiLSTM + Attention)
-     ↓
-Model Evaluation & Metrics (Accuracy, Precision, Recall, F1)
-     ↓
-Error Analysis & Confusion Matrix
----
 
 ## Error Analysis & выводы
 
