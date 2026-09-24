@@ -1,4 +1,4 @@
-# 🎬 Movie Genre Classification — Deep Learning Pipeline
+# Movie Genre Classification — Deep Learning Pipeline
 
 > **Сравнительный анализ архитектур нейронных сетей для классификации текстовых данных (синопсисов фильмов).**
 
